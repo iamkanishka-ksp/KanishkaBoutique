@@ -2,6 +2,21 @@
   height: 100px;
   filter: drop-shadow(5px 0 10px rgb(0, 0, 0));
 }
-#tname{
-  text
+#logo:hover{
+  height: 110px;
+  filter: drop-shadow(5px 0 12px rgb(0, 0, 0));
+}
+#logoflex{
+  height: 124px;
+  width: 124px;
+  padding: 12px;
+}
+.salsa {
+  font-family: "Salsa", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#tname {
+  font-size: 20px;
+  width: 300px;
 }
